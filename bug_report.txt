@@ -1,0 +1,9 @@
+id 1
+severity low
+title some title here
+STR step 1 step 2 step 3
+ER expected result
+AR actual result
+Environment Windows + Browser
+Attachment file1.jpg
+Comments none
