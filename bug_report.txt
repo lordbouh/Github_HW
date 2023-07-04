@@ -7,7 +7,5 @@ AR actual result
 Environment Windows + Browser
 Attachment file1.jpg
 Comments none
-<<<<<<< HEAD
-=======
 test line
->>>>>>> a9fa3fbb100b643be224398473dd5d65d301d9bc
+
